@@ -1,0 +1,69 @@
+{
+    "title": "Stackbit Exto Theme",
+    "color_scheme": "light",
+    "accent_color": "pink",
+    "header": {
+        "title": "Kerngesund",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Startseite",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Über uns",
+                "url": "/ueber-uns/",
+                "style": "link"
+            },
+            {
+                "label": "Portfolio",
+                "url": "/portfolio/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "Kontakt",
+                "url": "/kontakt/",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/",
+                "style": "icon",
+                "icon": "facebook",
+                "new_window": true
+            }
+        ]
+    },
+    "domain": "https://spectacular-spider-ba5c5.netlify.app"
+}
