@@ -2,12 +2,12 @@
 
 <img src="https://themes.stackbit.com/images/exto-demo-1024x768.png" width="600">
 
-This is a [Jekyll](https://jekyllrb.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
+[Jekyll](https://jekyllrb.com) Seite mit Git als [CMS](https://en.wikipedia.org/wiki/Content_management_system). Seiten-Editor: [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes). Build-Zeit: unter einer Minute.
 
-You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/exto-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
+Mit Stackbit lassen sich verschiedene Vorlagen [Vorlage auswählen](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/exto-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) wie diese benutzen. Wie wäre es mit einer anderen Auswahl?
 
 <details>
-        <summary>🎨 &nbsp;<strong>Look</strong></summary>
+        <summary>🎨 &nbsp;<strong>Vorlagen</strong></summary>
         <ul>
                 <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/fresh-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A personal theme with a blog</a></li>
                 <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/azimuth-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A sleek SaaS theme</a></li>
@@ -16,7 +16,7 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 </details>
 
 <details>
-        <summary>✏️ &nbsp;<strong>CMS</strong></summary>
+        <summary>✏️ &nbsp;<strong>CMS-Auswahl</strong></summary>
         <ul>
                 <li><a href="https://app.stackbit.com/create?cms=contentful&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Contentful</a></li>
                 <li><a href="https://app.stackbit.com/create?cms=sanity&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Sanity</a></li>
@@ -25,7 +25,7 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 </details>
 
 <details>
-        <summary>⚙️ &nbsp;<strong>Static site generator</strong></summary>
+        <summary>⚙️ &nbsp;<strong>Static-Site-Generatoren</strong></summary>
         <ul>
                 <li><a href="https://app.stackbit.com/create?ssg=gatsby&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Gatsby</a></li>
                 <li><a href="https://app.stackbit.com/create?ssg=nextjs&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Next.js</a></li>
@@ -33,45 +33,43 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
                 </ul>
 </details>
 
-## Develop Locally
+## Lokal entwickeln
 
-1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
+1.  Installiere eine vollständige [Ruby-Entwicklungsumgebung](https://jekyllrb.com/docs/installation/)
 
-1. Install Jekyll and Bundler:
+1.  Installiere Jekyll und Bundler:
 
         gem install jekyll bundler
 
-1. Install dependencies from Gemfile:
+1.  Installiere Abhängigkeiten aus dem Gemfile:
 
         bundle install
 
-
-
-1. Build the site and start the Jekyll local development server
+1.  Erzeuge Deine Seite and starte den lokalen Jekyll-Entwicklungs-Server
 
         bundle exec jekyll serve --livereload
 
-1. Open [http://localhost:4000](http://localhost:4000) in the browser
+1.  Öffne [http://localhost:4000](http://localhost:4000) im Browser
 
-1. 🎉
+1.  🎉
 
-## Editing Content
+## Content editieren
 
-To start editing your site, you can edit the included Markdown files.
+Fange mit dem Editieren Deines Contents an, indem du die mitgelieferten Markdown-Files umschreibst.
 
-Alternatively, you can use the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
+Alternative kannst du auch die kostenlose on-page Editier-Erfahrung in unserem neuen [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes)ausprobieren.
 
 [![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
 
-Here's a few resources to get you started:
+Hier sind ein paar Ressourcen zum Start:
 
-- 📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
-- 📺 &nbsp; [Adding, Reordering and Deleting Items](https://stackbit.link/project-readme-adding-video)
-- 📺 &nbsp; [Collaboration](https://stackbit.link/project-readme-collaboration-video)
-- 📺 &nbsp; [Publishing](https://stackbit.link/project-readme-publishing-video)
-- 📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
+- 📺 &nbsp; [Content editieren](https://stackbit.link/project-readme-editing-video)
+- 📺 &nbsp; [Einträge hinzufügen, neu anordnen und löschen](https://stackbit.link/project-readme-adding-video)
+- 📺 &nbsp; [Zusammenarbeit](https://stackbit.link/project-readme-collaboration-video)
+- 📺 &nbsp; [Veröffentlichen](https://stackbit.link/project-readme-publishing-video)
+- 📚 &nbsp; [Stackbit Dokumentation](https://stackbit.link/project-readme-documentation)
 
-If you need a hand, make sure to check the [Stackbit support page](https://stackbit.link/project-readme-support).
+Wenn Du Hilfe benötigst, guck Dir auf jeden Fall unsere [Stackbit Support-Seite](https://stackbit.link/project-readme-support) an.
 
 ## Colophon
 
