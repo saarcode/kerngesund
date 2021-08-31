@@ -1,6 +1,6 @@
 # ✨ spectacular-spider ✨
 
-<img src="https://themes.stackbit.com/images/exto-demo-1024x768.png" width="600">
+<img src="https://github.com/saarcode/kerngesund/images/kerngesund-1024x768.png" width="600">
 
 [Jekyll](https://jekyllrb.com)-Seite mit Git als [CMS](https://en.wikipedia.org/wiki/Content_management_system). Seiten-Editor: [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes). Build-Zeit: unter einer Minute.
 
@@ -57,11 +57,11 @@ Mit Stackbit lassen sich verschiedene [Vorlagen](https://app.stackbit.com/create
 
 Fange mit dem Editieren Deines Contents an, indem du die mitgelieferten Markdown-Files umschreibst.
 
-Oder probiere einfach unsere kostenlose on-page Editier-Erfahrung mit dem neuen [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes)aus.
+Oder probiere einfach unsere kostenlose on-page Editier-Erfahrung mit dem neuen [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) aus.
 
 [![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
 
-Hier sind ein paar Ressourcen zum Start:
+Hier ein paar Ressourcen zum Start:
 
 - 📺 &nbsp; [Content editieren](https://stackbit.link/project-readme-editing-video)
 - 📺 &nbsp; [Einträge hinzufügen, neu anordnen und löschen](https://stackbit.link/project-readme-adding-video)
